@@ -1,4 +1,4 @@
-### Opa! Sou o Silas Buarque. 😉
+### Olá, sou o Silas Buarque e seja bem vindo ao meu perfil 😉
 
 <div align="center">
   <a href="https://github.com/silasbuarque">
